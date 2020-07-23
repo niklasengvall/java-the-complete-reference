@@ -17,7 +17,7 @@
  */
 class Example2 {
 
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         int num; // declares a variable called num
 
         num = 100; // Assigns num the value of 100
