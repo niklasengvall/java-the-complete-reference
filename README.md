@@ -11,9 +11,9 @@ This repository consist of code examples with comments for the book:
 
 | Chapter | Title                                                         | Completed |
 | :-----: | ------------------------------------------------------------- | :-------: |
-|   01    | The History and Evolution of Java                             |           |
+|   01    | The History and Evolution of Java (no source in this chapter) |    :heavy_minus_sign:      |
 |   02    | An Overview of Java                                           |    :heavy_check_mark:      |
-|   03    | Data Types, Variables, and Arrays                             |    :white_check_mark:      |
+|   03    | Data Types, Variables, and Arrays (started but not completed) |    :white_check_mark:      |
 |   04    | Operators                                                     |           |
 |   05    | Control Statements                                            |           |
 |   06    | Introducing Classes                                           |           |
