@@ -8,7 +8,7 @@
 //
 // Chapter: 2 - An overview of Java
 // Page:    33
-// Title:   The If Statement
+// Title:   The for Loop
 // File:    ForTest.java
 
 /*
