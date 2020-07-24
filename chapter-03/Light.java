@@ -28,12 +28,12 @@ class Light {
         // specify days here, leave the rest it computes no of seconds and the distance
         long days = 1000, seconds = days * 24 * 60 * 60, distance = lightspeed * seconds, distance_metric = ls_metric * seconds;
 
-        // lightspeed = 186000; removed, declared and assigned above
-        // days = 1000; removed, declared and assigned above
-        // seconds = days * 24 * 60 * 60; removed, declared and assigned above
-        // distance = lightspeed * seconds; removed, declared and assigned above
-        
         /* Removed this original lines and shrinked the code so it's more readable
+        lightspeed = 186000; removed, declared and assigned above
+        days = 1000; removed, declared and assigned above
+        seconds = days * 24 * 60 * 60; removed, declared and assigned above
+        distance = lightspeed * seconds; removed, declared and assigned above
+        
         System.out.print("In " + days);
         System.out.print(" days light will travel about ");
         System.out.println(distance + " miles.");
