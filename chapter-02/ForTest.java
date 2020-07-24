@@ -16,7 +16,7 @@
     Call this file "ForTest.java".
 */
 class ForTest {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         // int x;  I removed this line, you can declare and assign a value 
         //         to a variable directly inside the for loop, se below
 
