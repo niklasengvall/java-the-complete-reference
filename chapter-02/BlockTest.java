@@ -16,7 +16,7 @@
     Call this file "BlockTest.java"
 */
 class BlockTest {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         // int x, y;
         // y = 20;
         int y = 20; // Declare and assign a value to y, commented the orginal lines above
