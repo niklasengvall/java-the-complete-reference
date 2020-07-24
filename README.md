@@ -49,5 +49,6 @@ This repository consist of code examples with comments for the book:
 |   34    | Java Beans                                                    |           |
 |   35    | Introducing Servlets                                          |           |
 
-All my Thanks goes to Herbert and David,
+All my Thanks goes to Herbert and David for their splendid work.
+
 // Niklas Engvall
