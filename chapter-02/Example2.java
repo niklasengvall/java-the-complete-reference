@@ -11,10 +11,10 @@
 // Title:   A Second Short program
 // File:    Example2.java
 
-/*
+/**
     Here is another short example. 
     Call this file "Example2.java"
- */
+*/
 class Example2 {
 
     public static void main(String args[]) {

@@ -11,10 +11,11 @@
 // Title:   long
 // File:    Light.java
 
-
-// Compute distance light travels using long variables.
-// I changed the file from original as you can see below and when compiled
-// the class file (bytecode) is smaller compared to the compiled original.
+/** 
+    Compute distance light travels using long variables.
+    I changed the file from original as you can see below and when compiled
+    the class file (bytecode) is smaller compared to the compiled original.
+*/
 class Light {
     public static void main(String args[]) {
     /* Removed this original lines so you see how you can shrink the code
@@ -25,7 +26,7 @@ class Light {
     */
         // approximate speed of light in miles/second and m/s
         int lightspeed = 186000, ls_metric = 299792458; // added metric value
-        // specify days here, leave the rest it computes no of seconds and the distance
+        // specify days here, leave the rest it computes numbers of seconds and the distance
         long days = 1000, seconds = days * 24 * 60 * 60, distance = lightspeed * seconds, distance_metric = ls_metric * seconds;
 
         /* Removed this original lines and shrinked the code so it's more readable

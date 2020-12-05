@@ -11,7 +11,7 @@
 // Title:   The If Statement
 // File:    IfSample.java
 
-/*
+/**
     Demonstrate the if. 
     Call this file "IfSample.java".
 */

@@ -11,7 +11,7 @@
 // Title:   A First Simple program
 // File:    Example.java
 
-/* 
+/** 
     This is a simple Java program. 
     Call this file "Example.java"
 */

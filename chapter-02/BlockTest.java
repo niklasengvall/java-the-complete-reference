@@ -11,7 +11,7 @@
 // Title:   Using Blocks of Code
 // File:    BlockTest.java
 
-/*
+/**
     Demonstrates a block of code
     Call this file "BlockTest.java"
 */
